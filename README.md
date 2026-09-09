@@ -261,7 +261,13 @@ Engineered ML pipelines for a defense analytics platform, working across data pr
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ronni86bit&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=818CF8&line=6C63FF&point=ffffff" width="95%" />
+<div align="center">
+
+<a href="https://github.com/ronni86bit">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ronni86bit&bg_color=0D1117&color=60A5FA&line=2563EB&point=818CF8&area=true&hide_border=true" width="95%" alt="GitHub Contribution Activity Graph" />
+</a>
+
+</div>
 
 </div>
 
