@@ -1,12 +1,12 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Cherukuri%20Rohith&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Generative%20AI%20%7C%20RAG%20%7C%20Agentic%20Systems&descAlignY=58&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0F172A,50:1E3A8A,75:2563EB,100:0F766E&height=230&section=header&text=Cherukuri%20Rohith&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38)
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+Production-Ready+GenAI+Systems;LLMs+%7C+RAG+%7C+Agentic+AI+%7C+Multi-Agent+Orchestration;Turning+LLM+Demos+Into+Grounded%2C+Real+Systems;Final-Year+B.Tech+CSE+(Data+Science)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=125&lines=Building+Production-Ready+GenAI+Systems;Engineering+Grounded+RAG+%26+Agentic+AI;Multi-Agent+Systems+%7C+Computer+Vision;Research+%E2%86%92+Engineering+%E2%86%92+Deployment" alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 ![Academic](https://img.shields.io/badge/B.Tech-CSE%20(Data%20Science)-6C63FF?style=for-the-badge&logo=googlescholar&logoColor=white)
 ![Grad](https://img.shields.io/badge/Graduating-2027-4F46E5?style=for-the-badge&logo=graduation-cap&logoColor=white)
@@ -261,13 +261,9 @@ Engineered ML pipelines for a defense analytics platform, working across data pr
 
 <div align="center">
 
-<div align="center">
-
 <a href="https://github.com/ronni86bit">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ronni86bit&bg_color=0D1117&color=60A5FA&line=2563EB&point=818CF8&area=true&hide_border=true" width="95%" alt="GitHub Contribution Activity Graph" />
 </a>
-
-</div>
 
 </div>
 
